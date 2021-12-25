@@ -1,6 +1,16 @@
 # Tec-Blog
-oi
 
+Projeto criado atraves das aulas da udemy.
+
+## Ferramentas Utilizadas ##
+
+ ### Linguagem de Marcação ###
+ 
+[Html] (https://www.w3schools.com/html/)
+
+### Linguagem de Estilização ###
+
+[Css] (https://www.w3schools.com/css/)
 
 ![image](https://user-images.githubusercontent.com/78764825/147386837-ca17b5fe-8b56-40f0-8486-f69616ee4224.png)
 
